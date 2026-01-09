@@ -1,16 +1,17 @@
 {
   "name": "fenrir-discord-bot",
   "version": "1.0.0",
-  "description": "Сімейний Discord бот для повідомлень про дні народження",
+  "description": "Fenrir GTA RP Family Discord Bot",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    "discord.js": "^14.12.1",
-    "node-cron": "^3.0.2"
-  },
   "engines": {
-    "node": "20.x"
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
   }
 }
