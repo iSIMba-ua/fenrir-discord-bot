@@ -1,0 +1,16 @@
+{
+  "name": "fenrir-discord-bot",
+  "version": "1.0.0",
+  "description": "Сімейний Discord бот для повідомлень про дні народження",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "node-cron": "^3.0.2"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}

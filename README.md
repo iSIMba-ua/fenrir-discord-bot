@@ -1,1 +1,2 @@
-# fenrir-discord-bot
+# Fenrir Discord Bot
+Бот для повідомлень про дні народження сім'ї.
